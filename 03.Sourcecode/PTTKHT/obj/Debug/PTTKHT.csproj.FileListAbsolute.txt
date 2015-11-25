@@ -1,0 +1,123 @@
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\PTTKHT.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\PTTKHT.pdb
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\Antlr3.Runtime.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.Core.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\EntityFramework.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\System.Web.Optimization.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\System.Web.Providers.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\WebGrease.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\EntityFramework.xml
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.Core.xml
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.csprojResolveAssemblyReference.cache
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.dll
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.pdb
+C:\Users\van\Desktop\project\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.dll.licenses
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\PTTKHT.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\PTTKHT.pdb
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\Antlr3.Runtime.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.Core.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\EntityFramework.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\System.Web.Optimization.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\System.Web.Providers.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\WebGrease.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\EntityFramework.xml
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.Core.xml
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.csprojResolveAssemblyReference.cache
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.dll.licenses
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.dll
+C:\Users\van\Desktop\Phân tích và thiết kế hệ thống\project\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.pdb
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\PTTKHT.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\PTTKHT.pdb
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\Antlr3.Runtime.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.Core.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\EntityFramework.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\System.Web.Optimization.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\System.Web.Providers.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\WebGrease.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\EntityFramework.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.Core.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.dll.licenses
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\project\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.pdb
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\PTTKHT.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\PTTKHT.pdb
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\Antlr3.Runtime.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.Core.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\EntityFramework.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\System.Web.Optimization.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\System.Web.Providers.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\WebGrease.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\EntityFramework.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.Core.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.csprojResolveAssemblyReference.cache
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.dll.licenses
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.dll
+C:\Users\van\Desktop\ĐỒ ÁN 1\đồ án 1\03.Sourcecode\PTTKHT\obj\Debug\PTTKHT.pdb
